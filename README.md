@@ -2,7 +2,7 @@
 
 This repository contains all the code necessary to reproduce the results presented in:
 
-Thakolkaran, P., Zheng, Y., Guo, Y., Vashisth, A., & Kumar, S. (2024, September 10). Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks. arXiv.org. [https://arxiv.org/abs/2409.06457](https://arxiv.org/abs/2409.06457)
+Thakolkaran et al., **Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks**, Digital Discovery (2025).
 
 
 ---
